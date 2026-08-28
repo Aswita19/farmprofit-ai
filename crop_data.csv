@@ -1,0 +1,6 @@
+crop,yield_per_acre,price_per_kg,cost_per_acre,water_need,soil_ph_min,soil_ph_max,risk
+Rice,2800,24,18000,High,5.5,7.0,0.20
+Groundnut,1100,65,12500,Low,6.0,7.5,0.10
+Maize,2200,23,14000,Medium,5.5,7.5,0.15
+Millet,1500,38,9000,Low,5.0,7.5,0.08
+Cotton,900,72,17000,Medium,5.8,8.0,0.22
